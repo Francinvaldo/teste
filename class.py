@@ -1,1 +1,1 @@
-print("class")
+print("class1")
